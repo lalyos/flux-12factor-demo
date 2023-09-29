@@ -16,3 +16,4 @@ spec:
   values:
     title: Have a nice weekend, for real
     color: hotpink
+    body: '<iframe src="https://giphy.com/embed/8CKb7LQZM9ypMoW8iJ" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/storyful-beer-oktoberfest-drinkign-8CKb7LQZM9ypMoW8iJ">via GIPHY</a></p>'
