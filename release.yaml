@@ -14,5 +14,5 @@ spec:
         namespace: default
       interval: 1m
   values:
-    title: Have a nice weekend
-    color: lightblue
+    title: Have a nice weekend, for real
+    color: hotpink
